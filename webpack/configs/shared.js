@@ -30,6 +30,18 @@ module.exports = env => ({
           'img-loader',
         ],
       },
+      // {
+      //   test: /\.(gif|png|jpe?g|svg)$/i,
+      //   use: [
+      //     {
+      //       loader: 'file-loader',
+      //       options: {
+      //         name: '[path][name].[ext]',
+      //         limit: 10000,
+      //       },
+      //     },
+      //   ],
+      // },
       {
         test: /\.woff(2)?(\?[a-z0-9#=&.]+)?$/,
         use: [
