@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./index.js"],"names":[],"mappings":"2FAAA,kB","file":"main.3c460b05404bc65249da.js","sourcesContent":["import './scss/styles.scss';\n\n// import cart from './img/icons/icon-cart.svg';\n"],"sourceRoot":""}
